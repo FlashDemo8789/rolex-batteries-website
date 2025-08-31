@@ -1,0 +1,76 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and Debug Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime and Temporary Files
+*.tmp
+*.temp
+.cache/
+.parcel-cache/
+
+# Build and Distribution
+/dist/
+/build/
+*.min.js
+*.min.css
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Local Configuration
+config.local.js
+settings.local.json
+
+# System Files
+*.lnk
+*.url
+
+# Testing
+coverage/
+.nyc_output/
+
+# Development Tools
+.eslintcache
+.stylelintcache
+
+# Documentation
+docs/_build/
+docs/.docusaurus/
+
+# Miscellaneous
+.hg/
+.svn/
+CVS/
+*/.git
